@@ -1,6 +1,6 @@
 {
   "name": "dscript-deku",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Dscript with Deku setup done for you",
   "main": "lib/index.js",
   "scripts": {
