@@ -3,7 +3,7 @@
 
 [![Code Climate](https://codeclimate.com/github/dustinspecker/dscript-deku/badges/gpa.svg)](https://codeclimate.com/github/dustinspecker/dscript-deku) [![Dependencies](https://david-dm.org/dustinspecker/dscript-deku.svg)](https://david-dm.org/dustinspecker/dscript-deku/#info=dependencies&view=table) [![DevDependencies](https://david-dm.org/dustinspecker/dscript-deku/dev-status.svg)](https://david-dm.org/dustinspecker/dscript-deku/#info=devDependencies&view=table)
 
-> [Dscript](https://github.com/dustinspecker/dscript) with [Deku](https://github.com/dekujs/deku) setup done for you
+> [dscript](https://github.com/dustinspecker/dscript) with [Deku](https://github.com/dekujs/deku) setup done for you
 
 **Check out [dscript](https://github.com/dustinspecker/dscript) for documentation on more advanced usage.**
 
