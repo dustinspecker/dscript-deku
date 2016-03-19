@@ -26,7 +26,7 @@
   ],
   "dependencies": {
     "deku": "^2.0.0-rc16",
-    "dscript": "^0.1.0"
+    "dscript": "^1.0.0"
   },
   "devDependencies": {
     "ava": "^0.13.0",
